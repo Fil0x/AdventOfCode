@@ -1,2 +1,2 @@
 # AdventOfCode
-Code solutions for AoC
+Code solutions for AoC written in GO
